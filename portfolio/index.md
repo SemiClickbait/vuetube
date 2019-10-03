@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly,
-  we work for fun."
+hero_text: "<strong>Welcome to VueTube</strong>. Here you can find the latest and
+  greatest content."
 title: Hero
 
 ---
